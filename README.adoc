@@ -1,0 +1,5 @@
+# (Blog) articles by me, Marcel Koch
+
+== TODO
+
+[ ] Generate markup out of the asciidoc files.
