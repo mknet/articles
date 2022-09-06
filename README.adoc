@@ -1,4 +1,4 @@
 # (Blog) articles by me, Marcel Koch
 
-.TODO list
+.TODO
 * [ ] Generate markup out of the asciidoc files.
