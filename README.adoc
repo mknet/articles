@@ -2,4 +2,4 @@
 
 == TODO
 
-[ ] Generate markup out of the asciidoc files.
+[] Generate markup out of the asciidoc files.
