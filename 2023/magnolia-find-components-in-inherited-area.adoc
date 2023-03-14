@@ -1,0 +1,4 @@
+= Magnolia CMS: Find components of current page in inherited area
+
+- Explanation of inheritance
+- Aggeration State
